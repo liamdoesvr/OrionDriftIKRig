@@ -1,6 +1,8 @@
 # Orion Drift IK Rig
 The **un-official** Orion Drift IK Rig for all your Blender animations!
 
+![Preview of the model](https://raw.githubusercontent.com/liamdoesvr/OrionDriftIKRig/refs/heads/main/drifterpreview.PNG)
+
 ## Overview
 The Orion Drift IK Rig was made by LiamDoesVR, and wolfsyncc. We did this because we thought Orion Drift could be the next Gorilla Tag in terms of YouTube, so we made a customizable model for YouTubers and other people. The rig is very simple, and easy to use, and includes badges, patterns, eyes, and color customization.
 
