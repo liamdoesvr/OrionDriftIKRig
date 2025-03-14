@@ -28,3 +28,5 @@ Once opened and configurated, go to the "Shading" tab, and click on the Drifter.
 ## Disclaimer
 This product is not affiliated with Another Axiom Inc. or its videogames Gorilla Tag and Orion Drift and is not endorsed or otherwise sponsored by Another Axiom. 
 Portions of the materials contained herein are property of Another Axiom. ©2021 Another Axiom Inc.
+
+If you'd like to contact us (issues, questions) create an issue request or ping us in this [Forum](https://discord.com/channels/1092928496474521700/1349882050580316220) (requires you to be in the [Orion Drift Discord Server](https://discord.com/invite/oriondrift). Enjoy!
