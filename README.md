@@ -1,5 +1,4 @@
 # Orion Drift IK Rig
-# TAKEN DOWN CAUSE LEGAL ISSUES
 The **un-official** Orion Drift IK Rig for all your Blender animations!
 
 ![Preview of the model](https://raw.githubusercontent.com/liamdoesvr/OrionDriftIKRig/refs/heads/main/drifterpreview.PNG)
